@@ -14,4 +14,4 @@ This is an app that we will be using to hit apis related to nostalgic shows, gam
 - The Anime Detail screen should take an anime to display as an argument and display the poster/image of that anime, its synopsis and a list of both characters and episodes on the screen. Characters and Episodes should be in their own respective recycler views and should be independently selectable.
 - The character detail screen should take the character selected in the anime detail screen and display the character’s image, their back-story, as well as who the voice actors were for each of the language translations.
 - The episode detail screen should display the synopsis and some key details about the episode like whether or not it is a filler episode and the synopsis of the episode.
--
+
