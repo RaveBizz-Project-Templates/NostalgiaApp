@@ -5,7 +5,7 @@ This is an app that we will be using to hit apis related to nostalgic shows, gam
 - [Anime Wireframes](https://whimsical.com/jikan-superhero-app-UB7USHkr4cs5MTaCkvR9Ew)
 - [Pokemon Docs](https://pokeapi.co)
 - [Anime Docs](https://docs.api.jikan.moe/#tag/anime)
-- [Project Board](https://ravebizz.notion.site/797dd436e33a43f1a627405ce9234af6?v=25e722fdb4e442c68a71086b91cfe843)
+- [Project Board]( https://ravebizz.notion.site/797dd436e33a43f1a627405ce9234af6?v=25e722fdb4e442c68a71086b91cfe843)
 
 # Acceptance Criteria:
 - Meet with your team and discuss what the architecture for your app shall be. After architecture, discuss which dependencies will be needed for the project and add them to the project. Look through the data and agree on what objects are needed and the nomenclature. Once everyone has a good understanding of the plan of attack, divide the tasks up and begin working.
